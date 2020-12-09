@@ -10,7 +10,7 @@ Integrantes:
 He aquí nuestro código Web Scrapper diseñado para capturar datos de la página web de nuestro interés, la cual fue https://python-para-impacientes.blogspot.com/2017/02/instalar-python-paso-paso.html
 
 Información básica para ejecutar el programa: 
-Este programa, tiene la función de obtener determianda información e imágenes de una pagina elegida. Podemos mencionar, que esta pagina tiene relación con la tematica propuesta en nuestro proyecto.
+Este programa, tiene la función de obtener determinada información e imágenes de una pagina elegida. Podemos mencionar, que esta pagina tiene relación con la tematica propuesta en nuestro proyecto.
 
 El programa necesita las siguientes librerías, para que funcione correctamente:  
 
