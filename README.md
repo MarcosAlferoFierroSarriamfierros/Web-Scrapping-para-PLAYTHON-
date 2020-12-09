@@ -13,6 +13,7 @@ Información básica para ejecutar el programa:
 Este programa, tiene la función de obtener determianda información e imágenes de una pagina elegida. Podemos mencionar, que esta pagina tiene relación con la tematica propuesta en nuestro proyecto.
 
 El programa necesita las siguientes librerías, para que funcione correctamente:  
+
 - import requests
 - from bs4 import BeautifulSoup
 - import urllib.request
@@ -23,8 +24,10 @@ El programa necesita las siguientes librerías, para que funcione correctamente:
 - from PIL import ImageTk, Image
 - import webbrowser
 
-Ejecutar los siguientes comandos para instalar la librería:
+Es necesario ejecutar los siguientes comandos para instalar la librería:
+
 - pip install bs4
 - pip install Pillow
 - pip install requests
 
+![Images](https://github.com/MarcosAlferoFierroSarriamfierros/Web-Scrapping-para-PLAYTHON-/blob/main/Images/Imagen.png)
