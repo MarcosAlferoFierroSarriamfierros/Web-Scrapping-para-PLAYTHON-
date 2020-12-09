@@ -9,9 +9,19 @@ Integrantes:
 
 He aquí nuestro código Web Scrapper diseñado para capturar datos de la página web de nuestro interés, la cual fue https://python-para-impacientes.blogspot.com/2017/02/instalar-python-paso-paso.html
 
-Información básica para ejecutar el programa:
+Información básica para ejecutar el programa: 
+Este programa, tiene la función de obtener determianda información e imágenes de una pagina elegida. Podemos mencionar, que esta pagina tiene relación con la tematica propuesta en nuestro proyecto.
 
-El programa necesita las siguientes librerías:  
+El programa necesita las siguientes librerías, para que funcione correctamente:  
+- import requests
+- from bs4 import BeautifulSoup
+- import urllib.request
+- from urllib.request import urlopen
+- import tkinter as tk
+- from tkinter import *
+- from tkinter import ttk
+- from PIL import ImageTk, Image
+- import webbrowser
 
 Ejecutar los siguientes comandos para instalar la librería:
 - pip install bs4
