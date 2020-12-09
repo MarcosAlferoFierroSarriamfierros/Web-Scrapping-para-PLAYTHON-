@@ -14,9 +14,6 @@ Información básica para ejecutar el programa:
 El programa necesita las siguientes librerías:  
 
 Ejecutar los siguientes comandos para instalar la librería:
-pip install bs4
-pip install Pillow
-import urllib.request
-from urllib.request import urlopen
+- pip install bs4
+- pip install Pillow
 
-![GitHub Logo](/Images/Imagen.png)
