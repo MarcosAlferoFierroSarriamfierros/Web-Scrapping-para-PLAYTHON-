@@ -15,3 +15,5 @@ El programa necesita las siguientes librerías:
 
 Ejecutar los siguientes comandos para instalar la librería: Xlrd 
 pip install xlrd
+
+![GitHub Logo](/images/imagen.PNG)
