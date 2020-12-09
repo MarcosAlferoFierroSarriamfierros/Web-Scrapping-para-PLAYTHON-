@@ -16,4 +16,5 @@ El programa necesita las siguientes librerías:
 Ejecutar los siguientes comandos para instalar la librería:
 - pip install bs4
 - pip install Pillow
+- pip install requests
 
