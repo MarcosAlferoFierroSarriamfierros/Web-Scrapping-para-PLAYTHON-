@@ -32,4 +32,6 @@ Es necesario ejecutar los siguientes comandos para instalar la librería ⚙:
 
 **IMAGENES RELACIONADAS:**
 
-![Images](https://github.com/MarcosAlferoFierroSarriamfierros/Web-Scrapping-para-PLAYTHON-/blob/main/Images/Imagen.png)
+![Images](https://github.com/MarcosAlferoFierroSarriamfierros/PLAYTHON-/blob/main/Capturas%20del%20Proyecto/IMAGEN1.png)
+![Images](https://github.com/MarcosAlferoFierroSarriamfierros/PLAYTHON-/blob/main/Capturas%20del%20Proyecto/IMAGEN2.png)
+
