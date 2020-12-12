@@ -30,11 +30,9 @@ Es necesario ejecutar los siguientes comandos para instalar la librería ⚙:
 - pip install Pillow
 - pip install requests
 
-**IMAGEN 1:**
+**IMAGEN RELACIONADA**
 
-![Images](https://github.com/MarcosAlferoFierroSarriamfierros/PLAYTHON-/blob/main/Capturas%20del%20Proyecto/IMAGEN1.png)
+![Images](https://github.com/MarcosAlferoFierroSarriamfierros/Web-Scrapping-para-PLAYTHON-/blob/main/Images/Imagen.png)
 
-**IMAGEN 2:**
 
-![Images](https://github.com/MarcosAlferoFierroSarriamfierros/PLAYTHON-/blob/main/Capturas%20del%20Proyecto/IMAGEN2.png)
 
